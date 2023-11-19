@@ -28,8 +28,6 @@ Looking in to this further we decided to investigate 2 specific drivers, Alain P
 
 Building a bar plot to look specifically at all there qualifying and race results you can see that they are almost he complete opposite of each other with Alain Prost have worse qualifying results but better at converting it in to a winning result Ayrton Senna is better at qualifying while not as good at turning it in to a win.
 
-Are there any correlations between certain driver characteristics (e.g, age, experience) and race results? - S
-
 ![Screenshot 2023-11-16 193628](https://github.com/RFEIST83/Group_3_Project/assets/145405658/600ac901-77b1-4c63-bbdd-d2883ff6a869)
 
 From looking at all the data for this particular question we can see that while there is definitely a very strong correlation between qualifying and final race results there are some exceptions to the rule which also happen to be some of the most successful drivers of all time. While qualifying on pole is always best thing you can do to maximise your race results it’s not always necessary.
