@@ -48,19 +48,22 @@ We then completed another Pearson correlation coefficient which showed a correla
 
 **Has the evolution of pit stops effected constructors results? - Alex Hodgins**
 
-To investigate how the changes in times of pit stops have effected constructors results we first built a scatter plot for the average pitstops across all constructors who raced in the seasons from 2011 to 2022. The cluster of datapoints shows the average times and the outliers. The outliers below the average show the teams who excel in pitstiops and the outliers above the clustered average shows which teams do not excel in pitstops.
+To investigate how the changes in times of pit stops have effected constructors results we first built a scatter plot for the average pitstops across all constructors who raced in the seasons from 2011 to 2022. The cluster of datapoints shows the average times and the outliers. The outliers below the average show the teams who excel in pitstops and the outliers above the clustered average shows which teams do not excel in pitstops.
 
 ![Screenshot 2023-11-20 090118](https://github.com/RFEIST83/Group_3_Project/assets/145405658/dd2c5c18-f818-42de-ba2b-cad0c13fe48a)
 
-We then decied to make a bar plot, upon review the years where new rules and car designs were introduced appear to have greatly effected pitstop times. An R-squared value closer to 0 indicates that the linear regression doesn't explain much of the variance in the Pitstop Time. A higher standard deviation also means that the data points are spread out over a wider range from the mean value. These results refelect the potential changes in both rules and cars and how they have effected pitstop times. Some notable changes were Teams were allowed to use both dry and wet tires during races, and they had to make mandatory pit stops to use both compounds in a race. Pirelli introduced wider tires (front and rear) in 2017 to provide more grip and increase the speed of the cars. Teams were given a choice of multiple compounds (ultrasoft, supersoft, soft, medium, hard, etc.) for each race weekend, and they had to use at least two different compounds during the race. Formula 1 introduced 18-inch tires to replace the 13-inch tires, marking a significant change in the tire size.
+We then decided to make a bar plot, upon review the years where new rules and car designs were introduced appear to have greatly effected pitstop times. An R-squared value closer to 0 indicates that the linear regression doesn't explain much of the variance in the Pitstop Time. A higher standard deviation also means that the data points are spread out over a wider range from the mean value. These results reflect the potential changes in both rules and cars and how they have effected pitstop times. Some notable changes were Teams were allowed to use both dry and wet tires during races, and they had to make mandatory pit stops to use both compounds in a race. Pirelli introduced wider tires (front and rear) in 2017 to provide more grip and increase the speed of the cars. Teams were given a choice of multiple compounds (ultrasoft, supersoft, soft, medium, hard, etc.) for each race weekend, and they had to use at least two different compounds during the race. Formula 1 introduced 18-inch tires to replace the 13-inch tires, marking a significant change in the tire size.
 
 ![Screenshot 2023-11-20 090253](https://github.com/RFEIST83/Group_3_Project/assets/145405658/6947acb6-0f23-4546-b8ef-02f226d11d42)
 
-Finally we for this question we decied to look at if faster pit stop times equaled more points for a particular constrctor. We did this by choosing two constructors over a single year to looks at. We choose both Wiliams and Mercedes from the year 2011 and plotted this on a bar graph. 
+Finally we decided to look at if faster pit stop times equalled more points for a particular constructor. We did this by choosing two constructors over a single year to looks at. We choose both Wiliams and Mercedes from the year 2011 and plotted this on a bar graph. 
 
 ![Screenshot 2023-11-20 090311](https://github.com/RFEIST83/Group_3_Project/assets/145405658/1dbbdc81-fae5-423d-b620-105d175b42a3)
 
-Using the above data we have identified Williams as a constructor with the fastest pitstop time of 2011 and compared their time with championship winners Mercedes. Their average pitstop time is very similar but Williams fastest pitstop time is quicker than Mercedes
+Using the dataset we identified Williams as a constructor with the fastest pitstop time of 2011 and compared their time with the Mercedes team. Their average pitstop time is very similar but Williams fastest pitstop time is quicker than Mercedes
 
-The bar graph shows that although Williams may have had a quicker fastest pitstop time and their average pitstop time is similar it doesn't result in their points tally being similar. As we can see Mercedes accumilated more points over the 2011 season and won the championship
+![Screenshot 2023-11-20 095850](https://github.com/RFEIST83/Group_3_Project/assets/145405658/8694b4a9-2d09-40a0-aef7-54a44c5c3bac)
+
+On a second bar graph we plotted points earned in the same season and compared that to pitstop times. Although Williams may have had faster pitstop times it doesn't result in their points tally being similar. As we can see Mercedes accumulated more points over the 2011 season.
+
 
