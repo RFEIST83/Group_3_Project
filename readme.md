@@ -44,7 +44,7 @@ With age we took date of births of each of the 857 drivers throughout the histor
 
 ![Screenshot 2023-11-19 182551](https://github.com/RFEIST83/Group_3_Project/assets/145405658/27a52bd2-e50f-452b-8ca0-ca08785639fc)
 
-We then completed another Pearson correlation coefficient which showed a correlation coefficient of 0.18 which indicates a weak positive correlation between age and average fastest lap time. The data showed that between the ages of 26 and 34 would be the age that results in the fastest time you can also see that as you get older the faster the times become and then declines again as you get older again which shows experience does play a part in achieving success but only up to a certain point.
+We then completed another Pearson correlation coefficient which showed a correlation coefficient of 0.85 which indicates a strong correlation between age and average fastest lap time. The data showed that as you get older the faster the times become which shows experience does play a part in achieving success.
 
 **Has the evolution of pit stops effected constructors results? - Alex Hodgins**
 
