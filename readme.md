@@ -4,10 +4,7 @@
  
 ### Group Members:
 
-Himali Wijeratne
-Alexander Hodgins
-Rowan Feist
-Shenae Pepper
+Himali Wijeratne, Alexander Hodgins, Rowan Feist, Shenae Pepper
 
 ### Description/Outline:
 
