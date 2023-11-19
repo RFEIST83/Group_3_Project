@@ -28,6 +28,16 @@ Looking in to this further we decided to investigate 2 specific drivers, Alain P
 
 Building a bar plot to look specifically at all there qualifying and race results you can see that they are almost he complete opposite of each other with Alain Prost have worse qualifying results but better at converting it in to a winning result Ayrton Senna is better at qualifying while not as good at turning it in to a win.
 
+Are there any correlations between certain driver characteristics (e.g, age, experience) and race results? - S
+
 ![Screenshot 2023-11-16 193628](https://github.com/RFEIST83/Group_3_Project/assets/145405658/600ac901-77b1-4c63-bbdd-d2883ff6a869)
 
 From looking at all the data for this particular question we can see that while there is definitely a very strong correlation between qualifying and final race results there are some exceptions to the rule which also happen to be some of the most successful drivers of all time. While qualifying on pole is always best thing you can do to maximise your race results it’s not always necessary.
+
+**Are there any correlations between certain driver characteristics and race results? - Shenae Pepper**
+
+Looking at the data we attempted to find if there was any correlation between a drivers character and their race results. Two things that were looked at specifically are a drivers nationality and age. With nationality we created a bar plot to compare the nationalities of 857 different drivers with their average fastest times. What this showed that of all the drivers Colombians had the fastest average times while on the opposite end of the spectrum Americans had the worst.
+
+![Screenshot 2023-11-19 180239](https://github.com/RFEIST83/Group_3_Project/assets/145405658/d4b2c852-859a-4843-9a96-058d7e3cb700)
+
+Doing the ANOVA and T-Test on these results showed a p-value of 2.75 which showed the average fastest times between the two nationalities is statistically significant. Doing a Pearson correlation coefficient of 0.44 which indicates a moderate positive correlation. As the nationality changes, there is a tendency for the average fastest lap time to increase, but the relationship is not extremely strong. It suggests a moderate strength, meaning there is a discernible trend, but it's not as strong as a perfect correlation
