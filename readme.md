@@ -66,9 +66,9 @@ Using the dataset we identified Williams as a constructor with the fastest pitst
 
 On a second bar graph we plotted points earned in the same season and compared that to pitstop times. Although Williams may have had faster pitstop times it doesn't result in their points tally being similar. As we can see Mercedes accumulated more points over the 2011 season.
 
-**Accident Trends with Popular Formula 1 Circuits and Csontructors - Himali Wijeratne**
+**Accident Trends with Popular Formula 1 Circuits and Constructors - Himali Wijeratne**
 
-To look at wether accident trends with popular Formula 1 circuits and constructors we first build a bar plot to look at the what were the most commonly used circuits to use for analysis. Of all the circuits used we found that the British, Italian, Monaco, Belgian and German Grand Prix tracks were the most commonly used over the years. 
+To look at whether accident trends with popular Formula 1 circuits and constructors we first build a bar plot to look at the what were the most commonly used circuits to use for analysis. Of all the circuits used we found that the British, Italian, Monaco, Belgian and German Grand Prix tracks were the most commonly used over the years. 
 
 ![Screenshot 2023-11-20 175804](https://github.com/RFEIST83/Group_3_Project/assets/145405658/41fd6520-78cf-4f36-8153-08cf1cc0f2ac)
 
@@ -82,11 +82,9 @@ We then constructed a bar chart to look at all the accidents that have taken pla
 
 When looking at just the top 5 most frequently run circuits we can actually see a slight decrease in accidents with a linear correlation of 0 meaning there is absolutely no correlation between accidents at these tracks over time. 
 
+![Screenshot 2023-11-20 175743](https://github.com/RFEIST83/Group_3_Project/assets/145405658/c7b8e4d3-de21-4671-b9de-82297e19bc00)
+
+We then did a ratio analysis on the top 5 constructors and their accidents per races in a line plot. From this we could see that the McLaren racing team has had the highest accident to race ratio over time. 
+
 ![Screenshot 2023-11-20 175716](https://github.com/RFEIST83/Group_3_Project/assets/145405658/302e3dda-fcd8-4491-919f-94174060b078)
 
-We then did a ratio analysis on the top 5 constructors and their accidents per races in a line plot. From this we could see that the McLaren racing team has had the highest accident to race raito over time. 
-
-![Screenshot 2023-11-20 175728](https://github.com/RFEIST83/Group_3_Project/assets/145405658/180fbaaa-2708-4ec7-b96f-905483fe77c9)
-
-
-![Screenshot 2023-11-20 175743](https://github.com/RFEIST83/Group_3_Project/assets/145405658/c7b8e4d3-de21-4671-b9de-82297e19bc00)
