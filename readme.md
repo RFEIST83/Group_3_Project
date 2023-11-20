@@ -72,11 +72,11 @@ On a second bar graph we plotted points earned in the same season and compared t
 
 **Accident Trends with Popular Formula 1 Circuits and Constructors - Himali Wijeratne**
 
-To look at whether accident trends with popular Formula 1 circuits and constructors we first built a scatter plot looking at all accidents, that have taken place in all circuits from 1950 - 2023. With accidents termed to include incidences termed as "accidents and collisions" in the data set, which included data from a total of 1091 races and 1886 accidents and collisions.  When doing a linear regression analysis it showed a slope of 0.18 to suggest a slight increase in accidents over the years, however, the R-squared  value of 0.09, suggests there is no significant linear relationship between time and accidents. The change is most likely due to the high amount of variability in the nature of accidents and due to increased participation in F1 races. 
+To look at whether accident trends with popular Formula 1 circuits and constructors we first built a scatter plot looking at all accidents, that have taken place in all circuits from 1950 - 2023. With accidents termed to include incidences termed as "accidents and collisions" in the data set, which included data from a total of 1091 races and 1886 accidents and collisions.  When doing a linear regression analysis it showed a slope of 0.18, to suggest a slight increase in accidents over the years, however, the R-squared  value of 0.09, suggests there is no significant linear relationship between time and accidents. The change is most likely due to the high amount of variability in the nature of accidents and due to increased participation in F1 races. 
 
 ![Screenshot 2023-11-20 175728](https://github.com/RFEIST83/Group_3_Project/assets/145405658/180fbaaa-2708-4ec7-b96f-905483fe77c9)
 
-Next we built a bar plot to look at which top 5 circuits have run most consistently over the years to use for analysis. Of all the circuits used we found that the British, Italian, Monaco, Belgian and German Grand Prix tracks were the most commonly used over the years. 
+Next, we built a bar plot to look at which top 5 circuits have run most consistently over the years to use for analysis. Of all the circuits used, we found that the British, Italian, Monaco, Belgian and German Grand Prix tracks have run the most consistently over the years. 
 
 ![Screenshot 2023-11-20 175804](https://github.com/RFEIST83/Group_3_Project/assets/145405658/41fd6520-78cf-4f36-8153-08cf1cc0f2ac)
 
@@ -84,7 +84,7 @@ Of them, we then made a bar plot for the number of accidents at each circuit and
 
 ![Screenshot 2023-11-20 175651](https://github.com/RFEIST83/Group_3_Project/assets/145405658/aef30c15-3b7d-467f-a222-50b7b33584ec)
 
-When looking at just the top 5 most frequently run circuits, we can see a slight decrease in accidents over time indicated by the -0.01 slope with a R-squared value of 0, meaning that time alone doesn't account for any of the changes observed in the number of accidents at these tracks over time. 
+When looking at just the top 5 most frequently run circuits, with 653 total accidents over 348 races from 1950 - 2023, to explore the linear relationship between time and accidents we can see a slight decrease in accidents over time indicated by the -0.01 slope with a R-squared value of 0, meaning that time alone doesn't account for any of the changes observed in the number of accidents at these tracks over time.
 
 ![Screenshot 2023-11-20 175743](https://github.com/RFEIST83/Group_3_Project/assets/145405658/c7b8e4d3-de21-4671-b9de-82297e19bc00)
 
@@ -92,7 +92,7 @@ Next, we looked at top 5 participating constructors over time in the top 5 circu
 
 ![image](https://github.com/RFEIST83/Group_3_Project/assets/145959658/e8590537-ae5a-4d06-b11a-54cf1d14c087)
 
-Then we looked at top 5 constructors with most highest number of accidents and collisions  in the same circuits, which were Ferrari, McLaren, Williams, Sauber and Tyrrell.
+Then we looked at top 5 constructors with the highest number of accidents and collisions  in the same circuits, which were Ferrari, McLaren, Williams, Sauber and Tyrrell.
 
 ![image](https://github.com/RFEIST83/Group_3_Project/assets/145959658/7fdbdcf5-c391-4cbb-96ab-25929b9496e3)
 
