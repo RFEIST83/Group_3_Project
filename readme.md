@@ -14,6 +14,10 @@ This project analyses Formula 1 race results and driver performances from 1950 â
 
 [https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2023](https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2023)
 
+### Link to Presentation:
+
+[a link](https://docs.google.com/presentation/d/1Qf_8Qn_uJMO-J1FG1MYbhUnh6Z3ZDkiyj4JTBLN09lc/edit#slide=id.p1)
+
 ### Research Questions:
 
 **Do better qualifying results contribute to a more successful race? - Rowan Feist**
