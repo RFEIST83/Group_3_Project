@@ -98,4 +98,7 @@ Then we looked at top 5 constructors with the highest number of accidents and co
 
 We then merged the data and did a ratio analysis on the top consistently participating constructors and their accidents per race in a line plot. From this, we can see that the McLaren racing team has had the highest accident-to-race ratio over time. 
 
+![image](https://github.com/RFEIST83/Group_3_Project/assets/145959658/bf9221a2-7065-45d3-99cf-d59bcd7a149b)
+
+
 ![Screenshot 2023-11-20 175716](https://github.com/RFEIST83/Group_3_Project/assets/145405658/302e3dda-fcd8-4491-919f-94174060b078)
