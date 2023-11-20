@@ -67,3 +67,17 @@ Using the dataset we identified Williams as a constructor with the fastest pitst
 On a second bar graph we plotted points earned in the same season and compared that to pitstop times. Although Williams may have had faster pitstop times it doesn't result in their points tally being similar. As we can see Mercedes accumulated more points over the 2011 season.
 
 **Accident Trends with Popular Formula 1 Circuits and Csontructors - Himali Wijeratne**
+
+![Screenshot 2023-11-20 175804](https://github.com/RFEIST83/Group_3_Project/assets/145405658/41fd6520-78cf-4f36-8153-08cf1cc0f2ac)
+
+
+![Screenshot 2023-11-20 175651](https://github.com/RFEIST83/Group_3_Project/assets/145405658/aef30c15-3b7d-467f-a222-50b7b33584ec)
+
+
+![Screenshot 2023-11-20 175716](https://github.com/RFEIST83/Group_3_Project/assets/145405658/302e3dda-fcd8-4491-919f-94174060b078)
+
+
+![Screenshot 2023-11-20 175728](https://github.com/RFEIST83/Group_3_Project/assets/145405658/180fbaaa-2708-4ec7-b96f-905483fe77c9)
+
+
+![Screenshot 2023-11-20 175743](https://github.com/RFEIST83/Group_3_Project/assets/145405658/c7b8e4d3-de21-4671-b9de-82297e19bc00)
