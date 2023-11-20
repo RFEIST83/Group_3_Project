@@ -16,7 +16,7 @@ This project analyses Formula 1 race results and driver performances from 1950 â
 
 ### Link to Presentation:
 
-[a link](https://docs.google.com/presentation/d/1Qf_8Qn_uJMO-J1FG1MYbhUnh6Z3ZDkiyj4JTBLN09lc/edit#slide=id.p1)
+[Group 3 - Presentation](https://docs.google.com/presentation/d/1Qf_8Qn_uJMO-J1FG1MYbhUnh6Z3ZDkiyj4JTBLN09lc/edit#slide=id.p1)
 
 ### Research Questions:
 
