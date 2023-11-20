@@ -38,13 +38,13 @@ Looking at the data we attempted to find if there was any correlation between a 
 
 ![Screenshot 2023-11-19 180239](https://github.com/RFEIST83/Group_3_Project/assets/145405658/d4b2c852-859a-4843-9a96-058d7e3cb700)
 
-Doing the ANOVA and T-Test on these results showed a p-value of 2.75 which showed the average fastest times between the two nationalities is statistically significant. Doing a Pearson correlation coefficient of 0.44 which indicates a moderate positive correlation. As the nationality changes, there is a tendency for the average fastest lap time to increase, but the relationship is not extremely strong. It suggests a moderate strength, meaning there is a discernible trend, but it's not as strong as a perfect correlation
+Doing the ANOVA and T-Test on these results showed a p-value of 2.75 which showed the average fastest times between the two nationalities is statistically significant. 
 
 With age we took date of births of each of the 857 drivers throughout the history of Formula 1 and calculated what their age would of been at the time of each race. We then plotted this on a scatter graph comparing the age to the their average fastest times. 
 
 ![Screenshot 2023-11-19 182551](https://github.com/RFEIST83/Group_3_Project/assets/145405658/27a52bd2-e50f-452b-8ca0-ca08785639fc)
 
-We then completed another Pearson correlation coefficient which showed a correlation coefficient of 0.18 which indicates a weak positive correlation between age and average fastest lap time. The data showed that between the ages of 26 and 34 would be the age that results in the fastest time you can also see that as you get older the faster the times become and then declines again as you get older again which shows experience does play a part in achieving success but only up to a certain point.
+We then completed another Pearson correlation coefficient which showed a correlation coefficient of 0.85 which indicates a strong positive correlation between age and average fastest lap time. The data showed that between the ages of 17 and 39 would be the age that results in the fastest time you can also see that as you move past 40 the slower the times become. 
 
 **Has the evolution of pit stops effected constructors results? - Alex Hodgins**
 
